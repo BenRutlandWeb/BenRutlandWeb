@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm Ben
 
-<!--
-**BenRutlandWeb/BenRutlandWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer.
 
-Here are some ideas to get you started:
+## Here's a list:
+- HTML
+- CSS
+- SCSS
+- JavaScript
+- Vue
+- PHP
+- WordPress
+- Laravel
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Here's some links
+[![](https://img.icons8.com/color/48/000000/wordpress.png)](http://benrutlandweb.co.uk)
+[![](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/BenRutlandWeb)
+[![](https://img.icons8.com/fluent/48/000000/facebook-new.png)](https://www.facebook.com/benrutlandweb)
+[![](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/BenRutlandWeb)
+[![](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/BenRutlandWeb)
+[![](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/benrutlandweb/)
